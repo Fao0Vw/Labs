@@ -6,11 +6,7 @@ public class IdentityFunction implements MathFunction {
         return x;
     }
 
-    public static void main(String[] args) {
-        IdentityFunction example = new IdentityFunction();
-        System.out.println(example.apply(4.4));
 
-    }
 }
 
 
